@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="clearScreen">C</string>
+    <string name="number7">7</string>
+    <string name="Number4">4</string>
+    <string name="number1">1</string>
+    <string name="decimalPoint">.</string>
+    <string name="memoryClear">MC</string>
+    <string name="memoryCreater">MR</string>
+    <string name="undoButton"><![CDATA[<x]]></string>
+    <string name="memoryReductor">MR-</string>
+    <string name="memoryIncrementor">MR+</string>
+    <string name="percentageButton">%</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="divideButton">/</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="multiplyButton">X</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="subtractButton">-</string>
+    <string name="button0">0</string>
+    <string name="equalButton">=</string>
+    <string name="plusButton">+</string>
+    <string name="plusMinus">+/-</string>
+</resources>
